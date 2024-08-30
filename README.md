@@ -41,7 +41,7 @@ Jupyter Notebook
 
 
 
-Data Preprocessing: Clean and preprocess the dataset using the scripts in the jupyter Notebook.
+Data Preprocessing: Clean and preprocess the dataset using the scripts in the Jupyter Notebook.
 
 
 Model Training: Train the Logistic Regression model.
@@ -65,6 +65,11 @@ Training Accuracy: 94.15%
 
 Test Accuracy: 93.91%
 
+
+### For Lee
+
+Lee was a remarkable teacher whose dedication to his students went far beyond the classroom. He had an innate ability to inspire a love of learning. Lee's passion for programming was evident in the care he took to ensure that every student felt supported and understood. 
+Thank You, Lee.
 
 
 These results indicate that the model can effectively identify fraudulent transactions, though further tuning and testing with other models can be explored for improved performance.
