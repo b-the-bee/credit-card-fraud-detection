@@ -3,14 +3,14 @@ Credit card transaction fraud detection project
 
 
 
-###Project Overview###
+### Project Overview
 
 
 This project aims to develop a machine learning model capable of detecting fraudulent credit card transactions.
 The dataset used is highly imbalanced, with a very small percentage of transactions classified as fraudulent. The project addresses this imbalance and builds a model to accurately classify transactions as either fraudulent or legitimate.
 
 
-###Dataset###
+### Dataset
 
 
 Source: The dataset used in this project is a public dataset available on Kaggle.
@@ -27,7 +27,7 @@ Features:
 The dataset contains 31 columns, including Time, Amount, Class, and 28 anonymized features (V1 to V28).
 Class is the target variable where 0 denotes a legitimate transaction and 1 denotes a fraudulent transaction.
 
-#####Requirements####
+#### Requirements
 
 
 Python 3.x
@@ -37,7 +37,7 @@ Jupyter Notebook
 
 
 
-####Usage#####
+#### Usage
 
 
 
@@ -55,7 +55,7 @@ Run the Jupyter Notebook: To see the full workflow, you can also run the noteboo
 
 jupyter notebook notebooks/fraud_detection.ipynb
 
-####Results####
+#### Results
 
 
 The model achieved:
